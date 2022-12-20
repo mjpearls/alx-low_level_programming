@@ -5,12 +5,12 @@
  *
  * Return : void
  */
+
 void print_alphabet_x10(void);
-
-int number_times = 0;
-char alphabet = 'a';
-
 {
+	int number_times = 0;
+	char alphabet = 'a';
+
 	while (number_times < 9)
 	{
 		char alphabet = 'a';
