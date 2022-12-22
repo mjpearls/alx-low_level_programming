@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_alphabet - ten times in lowercase
+ * print_alphabet_x10 - ten times in lowercase
  *
  * Return : void
 */
 
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int number_times = 0;
 	char alphabet = 'a';
