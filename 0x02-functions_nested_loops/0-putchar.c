@@ -15,7 +15,7 @@ int main(void)
 	{
 		_putchar(word[i]);
 	}
-	_putchar(10);
+	_putchar('\n');
 
 	return (0);
 }
